@@ -1,1 +1,5 @@
-
+trigger_mm,payout_frequency_pct,average_annual_payout_rs,maximum_payout_rs
+700,20.0,2411.0,13510.000000000002
+800,30.0,4500.0,20000.0
+900,30.0,5500.0,20000.0
+1000,70.0,7948.0,20000.0
